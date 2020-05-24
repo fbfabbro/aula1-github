@@ -26,6 +26,7 @@ public class Aula100CalendarExercicio2 {
 		System.out.println("Minutes = " + minute);
 		System.out.println("Month = " + month);
 		System.out.println("Year = " + year);
+		System.out.println("fim do Programa");
 
 	}
 
